@@ -1,4 +1,4 @@
-# STCP-Capstone-PRoject
+# STCP-Capstone-Project
 STCP Capstone Project
  My first capstone
 
