@@ -1,5 +1,5 @@
-# STCP-Capstone-Project
-STCP Capstone Project
+# SCTP-Capstone-Project
+SCTP Capstone Project
  My first capstone
 
 ![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
