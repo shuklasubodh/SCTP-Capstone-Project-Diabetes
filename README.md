@@ -2,9 +2,7 @@
 SCTP Capstone Project
  My first capstone
 
-![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
 
-[Link to dataset](https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv)
 
 Description of dataset
 
