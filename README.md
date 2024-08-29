@@ -3,8 +3,6 @@ SCTP Capstone Project
  My first capstone
 
 
-https://i.imgur.com/E25y00q
-
 ![Screenshot of dashboard](https://imgur.com/E25y00q.jpeg)
 
 
