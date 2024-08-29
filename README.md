@@ -4,7 +4,7 @@ SCTP Capstone Project
 
 ![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
 
-[Link to dataset](https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv)
+[Link to dataset](https://drive.google.com/file/d/15QF7pSUJkCzldLHn4pDC1zfpmf4m6mSW/view?usp=sharing)
 
 Description of dataset
 
