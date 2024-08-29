@@ -3,9 +3,7 @@ SCTP Capstone Project
  My first capstone
 
 
-!https://imgur.com/E25y00q
-
-![Screenshot of dashboard](https://imgur.com/a/TZDUDrv)
+![Screenshot of dashboard](https://imgur.com/E25y00q)
 
 https://imgur.com/a/TZDUDrv
 #https://i.imgur.com/UujCjhB.png
