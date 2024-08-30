@@ -1,6 +1,6 @@
 # SCTP-Capstone-Project - Diabetes
 
-SCTP Capstone Project on Diabetes Prime Indian Database
+SCTP Capstone Project data based on Diabetes Prime Indian Database
 
 ![Screenshot of dashboard](https://imgur.com/H7lfPNi.jpeg)
 
