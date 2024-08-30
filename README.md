@@ -1,6 +1,5 @@
 # SCTP-Capstone-Project
-SCTP Capstone Project
- My first capstone
+SCTP Capstone Project on Diabetes Prime Indian Database
 
 ![Screenshot of dashboard](https://imgur.com/H7lfPNi.jpeg)
 
