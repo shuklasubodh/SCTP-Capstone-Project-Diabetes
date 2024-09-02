@@ -38,7 +38,7 @@ Column Information:
 <details>
 <summary><b>Foldable hidden section</b></summary>
 
-Any folded content here. It requires an empty line just above it!
+The main idea for uploading this dataset is to practice data analysis for capstone, as I am working and want to start ML concepts. it is a good resource of data to practice
 
 </details>
 
