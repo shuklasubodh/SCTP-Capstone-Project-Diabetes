@@ -2,7 +2,8 @@
 
 SCTP Capstone Project data based on Diabetes Prime Indian Database
 
-Accuracy of Diabetes Prediction - Imgur.jpg
+![Screenshot of dashboard](https://Accuracy of Diabetes Prediction - Imgur.jpeg)
+
 
 ![Screenshot of dashboard](https://imgur.com/H7lfPNi.jpeg)
 
