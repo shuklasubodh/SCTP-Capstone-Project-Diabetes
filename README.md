@@ -62,7 +62,11 @@ js
 </details>
 
 What you learned
+Using Various Model to see accuracy better models
+
 
 What you'd change
+Dataset is small and specific to ladies, would like to extend it to large datasets including gender
+
 
 Link to your LinkedIn
